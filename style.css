@@ -36,7 +36,7 @@ body {
     line-height: 5px;  
 }
 
-img {
+.studentImage {
     margin-right: 10px;
     border-radius: 50%;
 }
